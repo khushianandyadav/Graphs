@@ -1,11 +1,11 @@
 ````markdown
-# Graph Algorithms in Python 🧩
+# Graph Algorithms in Python 
 
 This repository contains a Jupyter Notebook (`Graphs.ipynb`) that demonstrates fundamental graph representations and traversal algorithms using Python.
 
 ---
 
-## 📂 Contents
+##  Contents
 The notebook includes:
 - Graph representation
   - Adjacency List
@@ -18,7 +18,7 @@ The notebook includes:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -43,13 +43,9 @@ Make sure you have the following installed:
 
 ---
 
-## 📸 Example Output
+##  Example Output
 
 * BFS traversal: `[0, 1, 3, 4, 2, 5]`
 * DFS traversal (iterative): `[0, 4, 2, 5, 1, 3]`
 * DFS traversal (recursive): `[0, 1, 2, 4, 3, 5]`
 * Cycle detection: `True / False`
-
----
-
-```
