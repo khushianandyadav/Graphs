@@ -1,4 +1,3 @@
-````markdown
 # Graph Algorithms in Python 
 
 This repository contains a Jupyter Notebook (`Graphs.ipynb`) that demonstrates fundamental graph representations and traversal algorithms using Python.
