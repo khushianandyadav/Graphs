@@ -6,13 +6,13 @@ This repository contains a Jupyter Notebook (`Graphs.ipynb`) that demonstrates f
 
 ##  Contents
 The notebook includes:
-- Graph representation
+- **Graph representation**
   - Adjacency List
   - Adjacency Matrix
-- Traversal algorithms
+- **Traversal algorithms**
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS) – iterative & recursive
-- Graph problem:
+- **Graph problem:**
   - Cycle detection in an undirected graph
 
 ---
