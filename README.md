@@ -17,19 +17,17 @@ The notebook includes:
 
 ---
 
-##  Getting Started
-
 ### Prerequisites
 Make sure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
-- No external libraries are required (uses only core Python)
+- No external libraries are required
 
 ### Running the Notebook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/graphs-algorithms.git
-   cd graphs-algorithms
+   git clone https://github.com/khushianandyadav/graphs.git
+   cd graphs
    ```
 
 2. Start Jupyter Notebook:
